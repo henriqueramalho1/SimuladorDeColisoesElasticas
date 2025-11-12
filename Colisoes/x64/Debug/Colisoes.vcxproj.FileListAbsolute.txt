@@ -1,2 +1,0 @@
-C:\Users\Usuario\Desktop\Colisoes\Colisoes\x64\Debug\Colisoes.exe
-C:\Users\Usuario\Desktop\Colisoes\Colisoes\x64\Debug\Colisoes.pdb
